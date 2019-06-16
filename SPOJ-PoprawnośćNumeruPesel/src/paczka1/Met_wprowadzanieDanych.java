@@ -1,6 +1,6 @@
 package paczka1;
 import java.util.Scanner;
-public class met_wprowadzanieDanych {
+public class Met_wprowadzanieDanych {
 
 	Dane dane = new Dane();
 	Scanner scan = new Scanner(System.in);
